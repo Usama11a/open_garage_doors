@@ -1,0 +1,148 @@
+    .carousel-item {
+      height: 65vh;
+      min-height: 350px;
+      background: no-r
+      epeat center center scroll;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+    }
+
+    .footer-dark {
+  padding:50px 0;
+  color:#f0f9ff;
+  background-color:#2d2a42;
+}
+
+.footer-dark h3 {
+  margin-top:0;
+  margin-bottom:12px;
+  font-weight:bold;
+  font-size:16px;
+}
+
+.footer-dark ul {
+  padding:0;
+  list-style:none;
+  line-height:1.6;
+  font-size:14px;
+  margin-bottom:0;
+}
+
+.footer-dark ul a {
+  color:inherit;
+  text-decoration:none;
+  opacity:0.6;
+}
+
+.footer-dark ul a:hover {
+  opacity:0.8;
+}
+
+@media (max-width:767px) {
+  .footer-dark .item:not(.social) {
+    text-align:center;
+    padding-bottom:20px;
+  }
+}
+
+.footer-dark .item.text {
+  margin-bottom:36px;
+}
+
+@media (max-width:767px) {
+  .footer-dark .item.text {
+    margin-bottom:0;
+  }
+}
+
+.footer-dark .item.text p {
+  opacity:0.6;
+  margin-bottom:0;
+}
+
+.footer-dark .item.social {
+  text-align:center;
+}
+
+@media (max-width:991px) {
+  .footer-dark .item.social {
+    text-align:center;
+    margin-top:20px;
+  }
+}
+
+.footer-dark .item.social > a {
+  font-size:20px;
+  width:36px;
+  height:36px;
+  line-height:36px;
+  display:inline-block;
+  text-align:center;
+  border-radius:50%;
+  box-shadow:0 0 0 1px rgba(255,255,255,0.4);
+  margin:0 8px;
+  color:#fff;
+  opacity:0.75;
+}
+
+.footer-dark .item.social > a:hover {
+  opacity:0.9;
+}
+
+.footer-dark .copyright {
+  text-align:center;
+  padding-top:24px;
+  opacity:0.3;
+  font-size:13px;
+  margin-bottom:0;
+}
+
+.logo{
+  width: 97%;
+  margin-top: -166px;
+  margin-left: -155px;
+}
+
+https://epicbootstrap.com/snippets/footer-dar
+
+
+
+
+#owl-demo .item{
+  margin: 3px;
+}
+#owl-demo .item img{
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+
+@media (min-width: 1025px){
+    .nature{
+         margin-left:17%;
+         width: 66%;
+         height: 450px;
+         margin-top: 9%;
+    }
+
+        .slideshow_div{
+        margin-top: 135px;
+    }
+
+.ss {
+  width: 100%;
+  height: 600px;
+  background-image: url('images/background_image.jpeg');
+  background-size: cover;
+  border: 1px solid lightgrey;
+  opacity: 1.7;
+}
+
+.whoweAre{
+  text-align: center;
+    font-weight: 900;
+    font-size: 45px;
+}
